@@ -44,6 +44,36 @@ body a{
 	display:inline-block;
 	margin-top:2em;
 }
+.fh5co-owl-text h1{
+  display: table-cell;
+  vertical-align: center;
+  z-index: 10;
+  left: 850px;
+  top: 140px;
+  position: relative;
+}
+.fh5co-owl-text h1{
+    font-size: 105px;
+    line-height: 105px;
+	color: white;
+	text-shadow:-6px -6px 6px #000000;
+    opacity: 2;
+ }
+.js .single-animate {
+  text-shadow:-0.5px -0.5px 1px #000000;                              /*SOMBRA NAS LETRAS, NO MOMENTO ESTÁ PRETA*/
+  opacity: 0;
+}
+.js .to-animate {
+  bottom: 14%;
+  float: center;
+  left: 0;
+  opacity: 0.8;
+  padding:5px 20px 10px;
+  right: inherit;
+  color: #fff;
+  text-align: left;
+  background: #000000;                 /* Cor da barra flutuante */
+}
 .top-menu ul li a{
 	font-size:1.3em;
 	text-decoration:none;
