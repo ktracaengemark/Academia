@@ -46,9 +46,9 @@ body a{
 }
 .fh5co-owl-text h1{
   display: table-cell;
-  vertical-align: center;
+  vertical-align: right;
   z-index: 10;
-  left: 850px;
+  left: 750px;
   top: 140px;
   position: relative;
 }
@@ -56,7 +56,7 @@ body a{
     font-size: 105px;
     line-height: 105px;
 	color: white;
-	text-shadow:-6px -6px 6px #000000;
+	text-shadow:-10px -10px 10px #000000;
     opacity: 2;
  }
 .js .single-animate {
