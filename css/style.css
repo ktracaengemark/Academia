@@ -1113,6 +1113,7 @@ opacity: 0.5;
 			}
 			.fitnesstips-grid3 {
 				margin-left: 3em;
+				background-color: #000000;
 			}
 			.map iframe {
 				width: 100%;
@@ -1389,7 +1390,7 @@ opacity: 0.5;
 			height: 4em;
 		}
 		.header-info h1 {
-			font-size: 1.4em;
+			font-size: 2.8em;
 			padding: 9px 9px;
 		}
 		.header {
@@ -1397,12 +1398,20 @@ opacity: 0.5;
 			padding-top: 1em;
 		}
 		.header-info {
-			margin-top: 4em;
+			margin-top: 3em;
 		}
 		.header-info h2 {
-			font-size: 1em;
+			font-size: 2.2em;
 			padding: 9px 9px;
 			width: 66%;
+		}
+		.owl-carousel-fullwidth .item .fh5co-owl-text .fh5co-sub-lead {
+		  font-size: 36px;
+		  line-height: 30px;
+		  line-height: 42px;
+		  font-weight: 100;
+		  margin-bottom: 30px;
+		  color: white;
 		}
 		.about-grid h2 {
 			font-size: 0.9em;
@@ -1576,6 +1585,7 @@ opacity: 0.5;
 		}
 		.fitnesstips-grid3 {
 			margin-left: 1em;
+			background-color: #000000;
 		}
 		.map iframe {
 			width: 100%;
